@@ -73,9 +73,9 @@
         <section>
             <h2>很高兴认识你</h2>
             <ul class="skills-list">
-                <li>我会做网页啦</li>
-                <li>继续探索中</li>
-                <li>要增加新功能</li>
+                <li>技能 1</li>
+                <li>技能 2</li>
+                <li>技能 3</li>
             </ul>
         </section>
         
