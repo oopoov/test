@@ -71,17 +71,17 @@
         </section>
         
         <section>
-            <h2>技能</h2>
+            <h2>很高兴认识你</h2>
             <ul class="skills-list">
-                <li>技能 1</li>
-                <li>技能 2</li>
-                <li>技能 3</li>
+                <li>我会做网页啦</li>
+                <li>继续探索中</li>
+                <li>要增加新功能</li>
             </ul>
         </section>
         
         <section>
             <h2>联系方式</h2>
-            <p>你可以通过以下方式联系我：</p>
+            <p>您可以通过以下方式联系我：</p>
             <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
             <p>Tel: 086-888888</p>
         </section>
