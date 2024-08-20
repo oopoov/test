@@ -68,7 +68,7 @@
     <div class="container">
         <section>
             <h2>关于我</h2>
-            <p>这里是你的个人简介，简单介绍你的背景、兴趣和目前的职业方向。</p>
+            <p>欢迎访问我的网页～</p>
         </section>
         
         <section>
@@ -89,7 +89,7 @@
     </div>
     
     <footer>
-        <p>&copy; 2024 你的名字. 保留所有权利。</p>
+        <p>&copy; 2024 cora_vc. 保留所有权利。</p>
     </footer>
 </body>
 </html>
