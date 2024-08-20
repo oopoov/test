@@ -18,7 +18,7 @@
             max-width: 1200px;
         }
         header {
-            background-color: #4CAF50;
+            background-color: #ffffff;
             color: white;
             padding: 20px 0;
             text-align: center;
