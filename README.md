@@ -60,7 +60,7 @@
 <body>
     <header>
         <div class="container">
-            <h1>个人简介</h1>
+            <h1>cora_vc</h1>
         </div>
     </header>
     
@@ -83,7 +83,7 @@
             <h2>联系方式</h2>
             <p>你可以通过以下方式联系我：</p>
             <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
-            <p>电话: 你的电话号码</p>
+            <p>Tel: 086-888888</p>
         </section>
     </div>
     
